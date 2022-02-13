@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/umvpt015gpk5ubpp?svg=true)](https://ci.appveyor.com/project/SergeiSeledkov/ajs-hw4)
